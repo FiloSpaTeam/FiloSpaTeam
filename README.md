@@ -24,3 +24,4 @@ I'm Claudio Maradonna, a mighty developer™️!
 ### “That’s the second biggest Github Profile I’ve ever seen!”
 
 <img alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=FiloSpaTeam&theme=gruvbox&show_icons=true">
+<img alt="github-toplanguages-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiloSpaTeam&layout=compact&hide=html">
