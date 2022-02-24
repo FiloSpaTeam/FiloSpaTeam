@@ -3,7 +3,7 @@
 <a href='https://gitea.it/claudiomaradonna'><img align='left' alt="gitea" src="https://raw.githubusercontent.com/UnitooTeam/UnitooTeam/main/assets/gitea.png" height='30px'/></a>
 <a href='https://gitlab.com/claudiomaradonna'><img align='left' alt="gitlab" src="https://raw.githubusercontent.com/UnitooTeam/UnitooTeam/main/assets/gitlab.png" height='30px'/></a>
 <a href='https://github.com/FiloSpaTeam'><img align='left' alt="github" src="https://raw.githubusercontent.com/UnitooTeam/UnitooTeam/main/assets/github.png" height='30px'/></a>
-<a href='https://social.unitoo.it/@claudio'><img align='left' alt="mastodon" src="https://raw.githubusercontent.com/UnitooTeam/UnitooTeam/main/assets/fediverse.png" height='30px'/></a>
+<a href='https://social.unitoo.it/@claudio'><img align='left' alt="fediverse" src="https://raw.githubusercontent.com/UnitooTeam/UnitooTeam/main/assets/fediverse.png" height='30px'/></a>
 <a href='https://it.liberapay.com/penguyman/'><img alt="liberapay" src="https://raw.githubusercontent.com/UnitooTeam/UnitooTeam/main/assets/liberapay.png" height='30px'/></a>
 
 I'm Claudio Maradonna, a mighty developer™️!
