@@ -26,6 +26,7 @@ I'm Claudio Maradonna, a mighty developer™️!
 
 #### IT
 - Building Games with Ethereum Smart Contracts - Kedar Iyer, Chris Dannen
+- Clean Architecture - Robert C. Martin Series
 - Clean C++ - Stephan Roth
 - Clean code - Robert C. Martin
 - Codice Libero (Free as in Freedom) - Sam Williams
