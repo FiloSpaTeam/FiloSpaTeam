@@ -33,6 +33,7 @@ I'm Claudio Maradonna, a mighty developer™️!
 - Docker Management Design Patterns - Deepak Vohra
 - GNOME 3 Application Development - Mohammad Anwari
 - An introduction to Design Patterns in C++ with Qt - Alan Ezust, Paul Ezust
+- Mastering Defensive Security - Cesar Bravo
 - Metaprogramming Ruby - Paolo Perrotta
 - Pragmatic Programmer - David Thomas, Andrew Hunt
 - Programming in Haskell - Graham Hutton
