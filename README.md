@@ -19,6 +19,7 @@ I'm Claudio Maradonna, a mighty developer™️!
 - Guybrush Threepwood is my favourite character
 - Hey, behind you! A three-headed monkey! 🐒
 - My favourite language is Ruby, but C++ is in my heart. In the last period i'm challenging with Haskell and functional programming languages
+- I own an Ender 3v2 and i like to print board games pieces
 
 <br>
 
@@ -53,6 +54,7 @@ I'm Claudio Maradonna, a mighty developer™️!
 - Savage World Adventure Edition
 - Green Oaks
 - La scatola bianca
+- Genesys Roleplaying System
 
 #### Other
 
@@ -60,6 +62,7 @@ I'm Claudio Maradonna, a mighty developer™️!
 - Il potere segreto - Stefania Maurizi
 - Economia all'idrogeno - Jeremy Rifkin
 - Fare il doppio in metà tempo - Jeff Sutherland
+- Un emozionante thriller psicologico di Jessie Hunt
 
 ### “That’s the second biggest Github Profile I’ve ever seen!”
 
