@@ -14,12 +14,12 @@ I'm Claudio Maradonna, a mighty developer™️!
 
 - I own, use, and hack a System76 Galago Pro (galp4) using my CODE keyboard aswell
 - I appreciate the fundamentals of Cryptocurrencies; ADA is my favourite one
-- I'm the founder of https://www.unitoo.it
+- I'm the founder of https://www.unitoo.it, check also my GitHub repo: @UnitooTeam
 - Every friday i join the challenge: The Open Source Weekend Contributing Challenge For Every Unskilled Gender Fluid Compliant People and started from Unitoo Company. Yikes! A mightly challenge. Simply i choose randomly a project (free as in freedom compliant) and contribute to development.
 - Guybrush Threepwood is my favourite character
 - Hey, behind you! A three-headed monkey! 🐒
 - My favourite language is Ruby, but C++ is in my heart. In the last period i'm challenging with Haskell and functional programming languages
-- I own an Ender 3v2 and i like to print board games pieces
+- I own an Ender 3v2 and a Flashforge Adventurer 5M Pro and i like to print board games pieces
 
 <br>
 
@@ -55,6 +55,9 @@ I'm Claudio Maradonna, a mighty developer™️!
 - Green Oaks
 - La scatola bianca
 - Genesys Roleplaying System
+- Blades in the Dark
+- CBR+PNK
+- Armakitten
 
 #### Other
 
@@ -63,6 +66,8 @@ I'm Claudio Maradonna, a mighty developer™️!
 - Economia all'idrogeno - Jeremy Rifkin
 - Fare il doppio in metà tempo - Jeff Sutherland
 - Un emozionante thriller psicologico di Jessie Hunt
+- Trilogia dello Sprawl
+- ...and many others! :P
 
 ### “That’s the second biggest Github Profile I’ve ever seen!”
 
