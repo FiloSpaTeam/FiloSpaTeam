@@ -12,7 +12,7 @@ I'm Claudio Maradonna, a mighty developer™️!
 
 ### Some curiosities about me:
 
-- I own, use, and hack a System76 Galago Pro (galp4) using my CODE keyboard aswell
+- I own, use, and hack a Dell Precision 3480 with Ubuntu Pro on it!
 - I'm the founder of https://www.unitoo.it, check also related GitHub repo: <a href='https://github.com/UnitooTeam'><img alt="github" src="https://raw.githubusercontent.com/UnitooTeam/UnitooTeam/main/assets/github.png" height='30px'/></a>
 - My favourite language is Ruby, but C++ is in my heart. In the last period i'm challenging with Haskell, Elixir and functional programming languages
 - Guybrush Threepwood is my favourite character
