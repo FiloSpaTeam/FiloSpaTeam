@@ -51,6 +51,6 @@ I’m a **Coder** with over 10 years of experience in backend development, speci
 
 ## 📈 “That’s the second biggest Github Profile I’ve ever seen!”
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FiloSpaTeam&show_icons=true&theme=radical)
 
 ---
